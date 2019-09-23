@@ -1,0 +1,84 @@
+body{
+margin: 0;
+text-align: center;
+color: #50514E;
+
+}
+hr{
+  border: dotted #ee82ee 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+h1{
+  font-size: 5;
+  margin-top: 0;
+  line-height: 2;
+  font-family: 'Nosifer', cursive;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+font-size: 2.5rem;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.topcontainer{
+  background-color: #d2fafb;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middlecontainer{
+  margin: 100px 0;
+
+}
+
+.bottomcontainer{
+
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+.sporty{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 380px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+}
+.profilepic{
+  border-radius: 100%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+
+}
+.cricket{
+  width: 25%;
+
+}
+.chicken{
+  width: 25%;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  padding: 20px 0;
+}
